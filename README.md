@@ -2,7 +2,7 @@
 
 Простой CLI-инструмент для раздачи файла по HTTP.
 
-Rust версия pathfinder-cli - [pathfinder-cli](https://github.com/ffebr/pathfinder-cli)
+Rust версия [pathfinder-cli](https://github.com/ffebr/pathfinder-cli)
 
 ## Установка
 
